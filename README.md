@@ -5,4 +5,3 @@ draw a graph of away team and home team goal scoring in each year of quaterfinal
 #ANALYSIS 2 #
 teams that most appeared in quarterfinal and final
 
-![flowchartt]
